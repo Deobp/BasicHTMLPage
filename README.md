@@ -1,1 +1,1 @@
-# BasicHtmlTest
+# Simple HTML page.
