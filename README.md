@@ -1,2 +1,3 @@
 # Simple HTML page.
-[demo page](https://laievskyisasha.github.io/BasicHTMLPage/)
+https://laievskyisasha.github.io/BasicHTMLPage/src/
+
